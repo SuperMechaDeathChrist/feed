@@ -5,7 +5,7 @@
     "movies":[
         {
             "id":"123456789",
-            "title":"Live Gaming",
+            "title":"Dethgasm",
             "releaseDate":"2015-06-11",
             "shortDescription":"With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.",
             "thumbnail":"https://upload.wikimedia.org/wikipedia/en/5/50/Deathgasm-poster.jpg",
@@ -29,7 +29,35 @@
                 ],
                 "duration":53
             }
-        }
+        },
+        
+                {
+            "id":"12345678",
+            "title":"Donnie Darko",
+            "releaseDate":"2015-06-11",
+            "shortDescription":"With the Twitch channel, you can watch the most popular broadcasts of the day, browse live broadcasts by the games you love and follow your favorite Twitch broadcasters.",
+            "thumbnail":"https://upload.wikimedia.org/wikipedia/en/5/50/Deathgasm-poster.jpg",
+            "genres":[
+                "drama"
+            ],
+            "tags":[
+                "films"
+            ],
+            "content":{
+                "dateAdded":"2015-06-11T14:14:54.431Z",
+                "captions":[
+
+                ],
+                "videos":[
+                    {
+                        "url":"https://dl.dropboxusercontent.com/s/24oeiqhmf7k7c83/Deathgasm%202015%20720p%20BRRip.mp4&dl=1",
+                        "quality":"HD",
+                        "videoType":"MP4"
+                    }
+                ],
+                "duration":53
+            }
+        },
     ],
     "series":[
         {
