@@ -29,9 +29,10 @@
                 ],
                 "duration":53
             }
-        },
-        
-                {
+        }
+       ],
+ "movies":[
+       {
             "id":"12345678",
             "title":"Donnie Darko",
             "releaseDate":"2015-06-11",
@@ -57,7 +58,7 @@
                 ],
                 "duration":53
             }
-        },
+        }
     ],
     "series":[
         {
