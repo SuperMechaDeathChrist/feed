@@ -49,7 +49,7 @@
                 ],
                 "videos":[
                     {
-                        "url":"http://127.0.0.1:8000/polls/get_ep/test/",
+                        "url":"http://127.0.0.1:8000/polls/get_ep/test",
                         "quality":"HD",
                         "videoType":"MKV"
                     }
